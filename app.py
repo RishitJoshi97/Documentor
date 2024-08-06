@@ -165,7 +165,7 @@ def run_UI():
     """
 
     # Load the environment variables (API keys)
-    load_dotenv()
+    #load_dotenv()
 
     # Set the page tab title
     st.set_page_config(page_title="DocuMentor", page_icon="🤖", layout="wide")
